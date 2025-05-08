@@ -12,3 +12,4 @@ print(df)
 
 df1 = df.dropna()
 print(df1)
+print(df)
